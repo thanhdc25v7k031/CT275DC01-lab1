@@ -2,9 +2,9 @@
 
 Học kỳ 3, Năm học: 2025-2026
 
-**Họ tên**: ...
+**Họ tên**: Mai Phuoc Thanh
 
-**MSSV**: ...
+**MSSV**: DC25V7K031
 
 **Lớp HP**: CT275DC01.
 
